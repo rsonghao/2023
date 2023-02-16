@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "0ca8bafe21ef146c",
+    "type": "split",
+    "children": [
+      {
+        "id": "43a7c0ec49715326",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28d940ab22852c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the straighteners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c41a2b942e004e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f76f146b3fde4063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2643f3b7ded64dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50b49f15f6f11a56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "orthopedist",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e998ffe7f6ae1672",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "394e42763495fa88",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0a255fc765729a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "525110e60929f7f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "the straighteners.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be2f724540175f86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "the straighteners.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aeaa5d3b62036268",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e88c9a766a1fbd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "the straighteners.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "28d940ab22852c8d",
+  "lastOpenFiles": []
+}
